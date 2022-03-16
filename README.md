@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JustErikSK
+- 👋 Hey, I’m @JustErikSK
 - 👀 I’m interested in Anime/Manga and Programming.
-- 🌱 I’m currently learning Java and JavaScript.
+- 🌱 I’m currently learning Java.
 - 📝 My Trello Board: https://trello.com/b/usOC0j8Z/minecraft
-- 📫 sebo.erik@gmail.com
+- 📫 My e-mail if you would like to contact me: sebo.erik@gmail.com
 
 <!---
 JustErikSK/JustErikSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
