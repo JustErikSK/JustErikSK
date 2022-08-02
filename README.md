@@ -2,6 +2,7 @@
 - 👀 I’m interested in Anime/Manga and Programming.
 - 🌱 I’m currently learning Java.
 - 📝 My Trello Board: https://trello.com/b/usOC0j8Z/withrage
+- 📁 My Spigot profile: https://www.spigotmc.org/members/justeriksk.1040534/
 - 📫 My e-mail if you would like to contact me: sebo.erik@gmail.com
 
 <!---
