@@ -2,8 +2,10 @@
 - 👀 I’m interested in Anime/Manga and Programming.
 - 🌱 I’m currently learning Java.
 - 📝 My Trello Board: https://trello.com/b/usOC0j8Z/withrage
-- 📁 My Spigot profile: https://www.spigotmc.org/members/justeriksk.1040534/
-- 📫 My e-mail if you would like to contact me: sebo.erik@gmail.com
+- 📁 You can download my projects here:
+  - Spigot: https://www.spigotmc.org/members/justeriksk.1040534/
+  - CurseForge: https://www.curseforge.com/members/justeriksk/projects
+  - Modrinth: https://modrinth.com/user/JustErikSK
 
 <!---
 JustErikSK/JustErikSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
